@@ -53,12 +53,3 @@ Key findings from the visualizations include:
 - ✅ Clear insights and summary
 - ✅ Optional enhancements with binning (for population density distribution)
 
----
-
-## 📌 Author
-
-**Samiksha Thatipamula**  
-Data Science Intern @ Prodigy Infotech  
-
----
-
