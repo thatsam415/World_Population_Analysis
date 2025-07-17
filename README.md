@@ -1,4 +1,4 @@
-# 🌍 Prodigy_DS_01  
+# 🌍 World Population Analysis  
 ## **Continental Demographic Insights: Population, Density, and Growth (1970–2022)**
 
 This project visualizes demographic insights across continents over the period **1970–2022**.  
