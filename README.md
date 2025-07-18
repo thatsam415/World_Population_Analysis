@@ -1,4 +1,4 @@
-# 🌍 World Population Analysis  
+# 🌍 World Population Analysis (1970-2022)
 ## **Continental Demographic Insights: Population, Density, and Growth (1970–2022)**
 
 This project visualizes demographic insights across continents over the period **1970–2022**.  
